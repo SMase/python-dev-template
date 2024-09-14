@@ -6,7 +6,6 @@
 $ cp .env.sample .env 
 # edit .env
 $ bash script/build_conda.sh
-$ conda activate .venv
 ```
 
 ### 1.2. install python modules using poetry
